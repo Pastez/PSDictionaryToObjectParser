@@ -1,5 +1,4 @@
-### PSDTO
-# NSDictionary To Object
+NSDictionary To Object
 ==========================
 
 __Simple class that helps to parse NSDictionary into Object with corresponding properties.__
