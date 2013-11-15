@@ -2,9 +2,16 @@
 //  NSObject+PSDTO.h
 //  PSDictionaryToObjectParser
 //
-//  Created by Tomasz Kwolek on 02.09.2013.
-//  Copyright (c) 2013 Tomasz Kwolek 2013 www.pastez.com. All rights reserved.
+//  15.11.2013
+//  Copyright (C) 2013 Tomasz Kwolek (www.pastez.com).
+//  44-100 Gliwice, Poland
+//  Everyone is permitted to copy and distribute verbatim copies
+//  of this license document, but changing it is not allowed.
 //
+//  Ok, the purpose of this license is simple
+//  and you just
+//
+//  DO WHAT THE FUCK YOU WANT TO.
 
 #import <Foundation/Foundation.h>
 
